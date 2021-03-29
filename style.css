@@ -22,6 +22,7 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+  text-size-adjust: 100px;
 }
 
 /* Style all font awesome icons */
@@ -45,8 +46,19 @@ body, html {
     color: white;
   }
 
-  .fa-gmail {
-    background: #3B5998;
+  .fa-google {
+    background: #b83a3a;
     color: white;
   }
+
+  body {
+      background-color: rgb(207, 226, 243);
+  }
   
+  img {
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    height: auto;
+  }
+
