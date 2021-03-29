@@ -22,7 +22,6 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  text-size-adjust: 100px;
 }
 
 /* Style all font awesome icons */
@@ -52,7 +51,7 @@ body, html {
   }
 
   body {
-      background-color: rgb(207, 226, 243);
+      background-color: rgb(142, 196, 246);
   }
   
   img {
@@ -62,3 +61,6 @@ body, html {
     height: auto;
   }
 
+  .name {
+      text-align: center;
+  }
